@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+// 메뉴 모델
 struct MenuItem: Decodable {
     var name: String
     var price: Int

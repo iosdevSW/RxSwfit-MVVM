@@ -43,7 +43,7 @@ class OrderViewController: UIViewController {
         SELECTED MENU 9
         """
         
-        updateTextViewHeight()
+        updateTextViewHeight() // 텍스트뷰 높이 조정
     }
 
     // MARK: - UI Logic
